@@ -1,0 +1,19 @@
+.city_box{
+    height: 100%;
+    // width: 100%;
+
+    #citylist_left{
+        width: 90%;
+        height: 100%;
+        // background: red;
+        position: fixed;
+        left: 0;
+    }
+
+    .citylist_right{
+        position: fixed;
+        right: 0;
+        top: 30%;
+        width: 18px;
+    }
+}
